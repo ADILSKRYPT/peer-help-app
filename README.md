@@ -19,7 +19,7 @@
 
 - Презентация (Лаб 1): [docs/presentation](docs/presentation)
 - Дизайн в Figma: *ссылка будет добавлена*
-- ER-диаграмма БД: [docs/er-diagram](docs/er-diagram)
+- ER-диаграмма БД: [ER-диаграмма](docs/er-diagram/er-diagram.png)
 - Формула рейтинга: [docs/rating-formula.md](docs/rating-formula.md)
 
 ## Структура репозитория
